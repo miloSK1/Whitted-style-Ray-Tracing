@@ -2,6 +2,13 @@
 
 This is a Ray Tracer implemented using Three.js without WebGL. The rendering process occurs entirely on the CPU, making it significantly slower than WebGL rendering. WebGL is only used for the preview window on the right.  
 
+## Setup
+
+
+1. ```sh
+    npm install
+2. ```sh
+    npm run dev
 ## Features
 
 ### GUI 
